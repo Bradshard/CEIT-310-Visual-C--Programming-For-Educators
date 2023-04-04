@@ -1,4 +1,4 @@
-# CEIT-310---VISUAL-C-PROGRAMMING-FOR-EDUCATORS
+# CEIT-310-VISUAL-C-PROGRAMMING-FOR-EDUCATORS
 1. Fundamentals of C#.
 2. Compilation and debugging of the C# applications.
 3. Design of visual interfaces with user controls.
